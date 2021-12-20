@@ -2,13 +2,13 @@
   <div>
     <h3 class="fw-bold border-bottom pb-3 mb-5">Projects</h3>
     <h4>Current projects</h4>
-    {% for item in site.data.projects.current %}
+    {% for item in data.projects.current %}
       <p>{{ item.name }}</p>
       <p> &nbsp; {{ item.institution }}</p>
       <p> &nbsp; {{ item.date }}</p>
     {% endfor %}
     <h4>Past projects</h4>
-    {% for item in site.data.projects.past %}
+    {% for item in data.projects.past %}
       <p>{{ item.name }}</p>
       <p> &nbsp; {{ item.institution }}</p>
       <p> &nbsp; {{ item.date }}</p>
