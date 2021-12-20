@@ -3,7 +3,7 @@
     <h3 class="fw-bold border-bottom pb-3 mb-5">Conferences</h3>
     <h4>Oral sections</h4>
     {% for item in site.data.conferences.orals %}
-      <p class="fw-bold"><a href="{{ item.url }}">{{ item.name }}</p>
+      <p class="fw-bold"><a href="{{ item.url }}">{{ item.name }}</a></p>
       <p> &nbsp; &#149; {{ item.date }}</p>
     {% endfor %}
     <h4>Poster sections</h4>
