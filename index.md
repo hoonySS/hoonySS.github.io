@@ -3,6 +3,4 @@ layout: home
 title: "Home"
 ---
 
-This theme allows an academic person to showcase their research interests, publications, research group, curriculum vitae, any courses that they may be teaching, or anything else they may want to put out into the world.
-
-Academics can use this home page to describe their research interests, display their latest publications, or provide an introduction to their research group.
+Hi, my name is MunQ Lee. I have a great interest in computer system, operating system and virtualization. Here is my home page that collects all of my research results. If you want to contact me, please send an email to dse112 at cau.ac.kr. 
