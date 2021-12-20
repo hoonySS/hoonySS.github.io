@@ -3,13 +3,13 @@
     <h3 class="fw-bold border-bottom pb-3 mb-5">Projects</h3>
     <h4>Current projects</h4>
     {% for item in site.data.projects.current %}
-      <p><h5>{{ item.name }}</h5></p>
+      <p class="fw-bold">{{ item.name }}</p>
       <p> &nbsp; &#149; {{ item.institution }}</p>
       <p> &nbsp; &#149; {{ item.date }}</p>
     {% endfor %}
     <h4>Past projects</h4>
     {% for item in site.data.projects.past %}
-      <p><h5>{{ item.name }}</h5></p>
+      <p class="fw-bold">{{ item.name }}</p>
       <p> &nbsp; &#149; {{ item.institution }}</p>
       <p> &nbsp; &#149; {{ item.date }}</p>
     {% endfor %}
