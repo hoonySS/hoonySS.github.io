@@ -4,7 +4,7 @@ menu:
 - {name: 'conferences', url: '/conferences'}
 - {name: 'projects', url: '/projects'}
 # - {name: 'courses', url: '/courses'}
-- {name: 'cv', url: '/cv'}
+- {name: 'curriculum vitae', url: '/cv'}
 - {name: 'contact', url: '/contact'}
 
 # people:
