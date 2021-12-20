@@ -7,7 +7,6 @@ menu:
 - {name: 'cv', url: '/cv'}
 - {name: 'contact', url: '/contact'}
 
-
 people:
 - {name: 'Primary Investigator', title: 'Researcher', department: 'Physics & Astronomy', institution: 'Some University', institution_address: '1 Main Street, Canada', phone: '(000) 000-0000', email: 'hello@university.edu', office: 'Science Building 505', image: 'assets/img/primary-investigator.jpg', url: 'primary-investigator'}
 - {name: 'Lab Technician', title: 'Researcher', department: 'Physics & Astronomy', institution: 'Some University', institution_address: '1 Main Street, Canada', phone: '(000) 000-0000', email: 'hello@university.edu', office: 'Science Building 505', image: 'assets/img/lab-technician.jpg', url: 'lab-technician'}
@@ -20,6 +19,7 @@ courses:
 
 social:
 - {icon: 'github', link: 'https://github.com/MunQ-Lee'}
+- {icon: 'google', link: 'https://scholar.google.com/citations?user=AKOUtfoAAAAJ'}
 # - {icon: 'facebook', link: 'https://www.facebook.com/munkyu94'}
 - {icon: 'instagram', link: 'https://www.instagram.com/munkyu94'}
 - {icon: 'linkedin', link: 'https://www.linkedin.com/in/munq-lee'}
