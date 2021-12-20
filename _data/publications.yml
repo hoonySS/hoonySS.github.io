@@ -1,5 +1,5 @@
 featured:
-- name: 'Munkyu Lee, Hyunho Ahn, Cheol-Ho Hong, and Dimitrios S. Nikolopoulos, "gShare: A Centralized GPU Memory Management Framework to Enable GPU Memory Sharing for Containers", Future Generation Computer Systems, Accept'
+- name: 'Munkyu Lee, Hyunho Ahn, Cheol-Ho Hong, and Dimitrios S. Nikolopoulos, "gShare: A Centralized GPU Memory Management Framework to Enable GPU Memory Sharing for Containers", Future Generation Computer Systems, Accepted'
   url: ''
 - name: 'Hyunchan Park, Juyong Seong, Munkyu Lee, Kyungwoon Lee, and Cheol-Ho Hong, "NetAP: Adaptive Polling Technique for Network Packet Processing in Virtualized Environments", Applied Sciences, Jul 2020'
   url: '/publications/NetAP-Adaptive Polling Technique for Network Packet Processing in Virtualized  Environments.pdf'
@@ -7,7 +7,7 @@ featured:
   url: '/publications/FirepanIF High Performance Host-Side Flash Cache.pdf'
 
 first:
-- name: 'Munkyu Lee, Hyunho Ahn, Cheol-Ho Hong, and Dimitrios S. Nikolopoulos, "gShare: A Centralized GPU Memory Management Framework to Enable GPU Memory Sharing for Containers", Future Generation Computer Systems, Accept'
+- name: 'Munkyu Lee, Hyunho Ahn, Cheol-Ho Hong, and Dimitrios S. Nikolopoulos, "gShare: A Centralized GPU Memory Management Framework to Enable GPU Memory Sharing for Containers", Future Generation Computer Systems, Accepted'
   url: ''
 
 coop:
