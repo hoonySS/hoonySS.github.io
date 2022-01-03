@@ -1,6 +1,6 @@
 featured:
 - name: 'Munkyu Lee, Hyunho Ahn, Cheol-Ho Hong, and Dimitrios S. Nikolopoulos, "gShare: A Centralized GPU Memory Management Framework to Enable GPU Memory Sharing for Containers", Future Generation Computer Systems, Accepted'
-  url: ''
+  url: 'https://doi.org/10.1016/j.future.2021.12.016'
 - name: 'Hyunchan Park, Juyong Seong, Munkyu Lee, Kyungwoon Lee, and Cheol-Ho Hong, "NetAP: Adaptive Polling Technique for Network Packet Processing in Virtualized Environments", Applied Sciences, Jul 2020'
   url: '/publications/NetAP-Adaptive Polling Technique for Network Packet Processing in Virtualized  Environments.pdf'
 - name: 'Hyunchan Park, Munkyu Lee, and Cheol-Ho Hong, "FirepanIF: High Performance Host-side Flash Cache Warm-up Method in Cloud Computing", Applied Sciences, Feb 2020'
@@ -8,10 +8,14 @@ featured:
 
 first:
 - name: 'Munkyu Lee, Hyunho Ahn, Cheol-Ho Hong, and Dimitrios S. Nikolopoulos, "gShare: A Centralized GPU Memory Management Framework to Enable GPU Memory Sharing for Containers", Future Generation Computer Systems, Accepted'
-  url: ''
+  url: 'https://doi.org/10.1016/j.future.2021.12.016'
 
 coop:
 - name: 'Hyunchan Park, Juyong Seong, Munkyu Lee, Kyungwoon Lee, and Cheol-Ho Hong, "NetAP: Adaptive Polling Technique for Network Packet Processing in Virtualized Environments", Applied Sciences, Jul 2020'
   url: '/publications/NetAP-Adaptive Polling Technique for Network Packet Processing in Virtualized  Environments.pdf'
 - name: 'Hyunchan Park, Munkyu Lee, and Cheol-Ho Hong, "FirepanIF: High Performance Host-side Flash Cache Warm-up Method in Cloud Computing", Applied Sciences, Feb 2020'
   url: '/publications/FirepanIF High Performance Host-Side Flash Cache.pdf'
+
+conferences:
+- name: 'Not yet published'
+  url: ''

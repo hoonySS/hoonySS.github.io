@@ -14,6 +14,10 @@
       {% for item in site.data.publications.coop %}
         <p><a href="{{ item.url }}">{{ item.name }}</a></p>
       {% endfor %}
+      <h4>International conferences</h4>
+      {% for item in site.data.publications.conferences %}
+        <p><a href="{{ item.url }}">{{ item.name }}</a></p>
+      {% endfor %}
     {% endif %}
   </div>
 </div>
