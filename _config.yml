@@ -2,3 +2,11 @@ url: "https://munq-lee.github.io" # the base hostname & protocol for your site, 
 baseurl: "" # the subpath of your site, e.g. /blog
 title: "MunQ-Lee" # the name of your site, e.g. ACME Corp.
 description: "Ph.D. student in Chung-Ang university"
+
+# Analytics
+analytics:
+  provider               : "google-gtag" 
+                          # false (default), "google", "google-universal", "google-gtag", "custom"
+  google:
+    tracking_id          : "G-8HXJWNRLTM"
+    anonymize_ip         : # true, false (default)
