@@ -1,16 +1,22 @@
 current:
-- name: 'GPU Resource Management in Multi-access Edge Computing (MEC)'
-  institution: 'Funded by Electronics and Telecommunications Research Institute (ETRI)'
-  date: 'Aug. 2021 - Nov. 2021'
+- name: 'Intelligent Energy-of-Things (iEoT) System IC Center for da Vinci-type Education'
+  institution: 'Supported by National R&D Program through the National Research Foundation of Korea (NRF) funded by Ministry of Science and ICT'
+  date: 'Apr. 2021 - Dec. 2026'
 
 - name: 'Hierarchical GPU Scheduling Framework for Containers in Fog Computing'
   institution: 'Supported by the National Research Foundation of Korea (NRF) grant funded by the Korea government (MSIT)'
   date: 'Mar. 2019 - Feb. 2023'
 
 past:
+- name: 'GPU Resource Management in Multi-access Edge Computing (MEC)'
+  institution: 'Funded by Electronics and Telecommunications Research Institute (ETRI)'
+  date: 'Aug. 2021 - Nov. 2021'
+  
 - name: 'Cloud Credentials Acquisition on PC-based Systems'
   institution: "Funded by Supreme Prosecutor's Office of the Republic of Korea"
   date: 'Jun. 2020 - Nov. 2020'
+
+
 
 # - name:
 #   institution:
