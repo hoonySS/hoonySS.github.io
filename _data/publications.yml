@@ -9,6 +9,8 @@ featured:
   url: '/publications/FirepanIF High Performance Host-Side Flash Cache.pdf'
 
 first:
+- name: 'Hyunho Ahn, Munkyu Lee, Sihoon Seong, Minhyeok Lee, Gap-Joo Na, In-Geol Chun, Youngpil Kim, and Cheol-Ho Hong, "BioEdge: Accelerating Object Detection in Bioimages with Edge-Based Distributed Inference", Electronics, November 2023'
+  url: 'https://doi.org/10.3390/electronics12214544'
 - name: 'Munkyu Lee, Hyunho Ahn, Cheol-Ho Hong, and Dimitrios S. Nikolopoulos, "gShare: A Centralized GPU Memory Management Framework to Enable GPU Memory Sharing for Containers", Future Generation Computer Systems, May 2022 (JCR 2020 IF: 7.187, Top: 6.3%)'
   url: 'https://doi.org/10.1016/j.future.2021.12.016'
 
