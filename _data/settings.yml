@@ -13,4 +13,4 @@ social:
 - {icon: 'linkedin', link: 'https://www.linkedin.com/in/munq-lee'}
 
 contacts:
-- {name: 'Munkyu Lee', title: 'Ph.D. student', department: 'Department of Intelligent Semiconductor Engineering', major: 'System Software', institution: 'Chung-Ang University', institution_address: '84, Heukseok-ro, Dongjak-gu, Seoul, Republic of Korea', phone: '+82 10-7199-9765', email: 'dse112@cau.ac.kr', office: '209-309', image: 'assets/img/contact.jpg'}
+- {name: 'Munkyu Lee', title: 'Ph.D. student', department: 'Intelligent Semiconductor Engineering', major: 'System Software', institution: 'Chung-Ang University', institution_address: '84, Heukseok-ro, Dongjak-gu, Seoul, Republic of Korea', phone: '+82 10-7199-9765', email: 'dse112@cau.ac.kr', office: '209-309', image: 'assets/img/contact.jpg'}
