@@ -11,16 +11,19 @@
         <p><a href="{{ item.url }}">{{ item.name }}</a></p>
       {% endfor %}
       &nbsp;&nbsp;&nbsp;
+
       <h4>Co-author</h4>
       {% for item in site.data.publications.coop %}
         <p><a href="{{ item.url }}">{{ item.name }}</a></p>
       {% endfor %}
       &nbsp;&nbsp;&nbsp;
+
       <h4>International conferences</h4>
       {% for item in site.data.publications.conferences %}
         <p><a href="{{ item.url }}">{{ item.name }}</a></p>
       {% endfor %}
       &nbsp;&nbsp;&nbsp;
+      
     {% endif %}
   </div>
 </div>
