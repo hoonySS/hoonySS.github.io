@@ -3,7 +3,7 @@ menu:
 # - {name: 'Conferences', url: '/conferences'}
 - {name: 'Projects', url: '/projects'}
 - {name: 'Curriculum Vitae', url: '/cv'}
-- {name: 'Posts', url: '/posts'}
+- {name: 'Posts', url: '/post'}
 - {name: 'Contact', url: '/contact'}
 
 social:

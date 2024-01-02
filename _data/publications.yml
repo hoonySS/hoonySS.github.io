@@ -19,6 +19,7 @@ coop:
   url: 'https://doi.org/10.3390/app10155219'
 - name: 'Hyunchan Park, Munkyu Lee, and Cheol-Ho Hong, "FirepanIF: High Performance Host-side Flash Cache Warm-up Method in Cloud Computing", Applied Sciences, Feb 2020'
   url: 'https://doi.org/10.3390/app10031014'
+  # url: '/publications/FirepanIF High Performance Host-Side Flash Cache.pdf'
 
 conferences:
 - name: 'Not yet published'
