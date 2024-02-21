@@ -1,7 +1,7 @@
-url: "https://munq-lee.github.io" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://seongsihoon.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 baseurl: "" # the subpath of your site, e.g. /blog
-title: "MunQ-Lee" # the name of your site, e.g. ACME Corp.
-description: "Ph.D. student in Chung-Ang university"
+title: "Seongsihoon-CV" # the name of your site, e.g. ACME Corp.
+description: "M.S. student in Chung-Ang university"
 
 # Analytics
 analytics:
