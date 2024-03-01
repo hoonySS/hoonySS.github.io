@@ -10,7 +10,7 @@ social:
 - {icon: 'github', link: 'https://github.com/MunQ-Lee'}
 - {icon: 'google', link: 'https://scholar.google.com/citations?user=AKOUtfoAAAAJ'}
 - {icon: 'orcid', link: 'https://orcid.org/0000-0001-6643-8580'}
-- {icon: 'instagram', link: 'https://www.instagram.com/munkyu94'}
+#- {icon: 'instagram', link: 'https://www.instagram.com/munkyu94'}
 - {icon: 'linkedin', link: 'https://www.linkedin.com/in/munq-lee'}
 
 contacts:
