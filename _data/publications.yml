@@ -1,12 +1,6 @@
 featured:
 - name: 'Hyunho Ahn, Munkyu Lee, Sihoon Seong, Minhyeok Lee, Gap-Joo Na, In-Geol Chun, Youngpil Kim, and Cheol-Ho Hong, "BioEdge: Accelerating Object Detection in Bioimages with Edge-Based Distributed Inference", Electronics, November 2023'
   url: 'https://doi.org/10.3390/electronics12214544'
-- name: 'Munkyu Lee, Hyunho Ahn, Cheol-Ho Hong, and Dimitrios S. Nikolopoulos, "gShare: A Centralized GPU Memory Management Framework to Enable GPU Memory Sharing for Containers", Future Generation Computer Systems, May 2022 (JCR 2020 IF: 7.187, Top: 6.3%)'
-  url: 'https://doi.org/10.1016/j.future.2021.12.016'
-- name: 'Hyunchan Park, Juyong Seong, Munkyu Lee, Kyungwoon Lee, and Cheol-Ho Hong, "NetAP: Adaptive Polling Technique for Network Packet Processing in Virtualized Environments", Applied Sciences, Jul 2020'
-  url: 'https://doi.org/10.3390/app10155219'
-- name: 'Hyunchan Park, Munkyu Lee, and Cheol-Ho Hong, "FirepanIF: High Performance Host-side Flash Cache Warm-up Method in Cloud Computing", Applied Sciences, Feb 2020'
-  url: 'https://doi.org/10.3390/app10031014'
 
 first:
 - name: 'Hyunho Ahn, Munkyu Lee, Sihoon Seong, Minhyeok Lee, Gap-Joo Na, In-Geol Chun, Youngpil Kim, and Cheol-Ho Hong, "BioEdge: Accelerating Object Detection in Bioimages with Edge-Based Distributed Inference", Electronics, November 2023'
