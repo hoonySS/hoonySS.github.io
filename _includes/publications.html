@@ -18,8 +18,14 @@
       {% endfor %}
       &nbsp;&nbsp;&nbsp;
 
-      <h4>Revision & Submission</h4>
-      {% for item in site.data.publications.coop %}
+      <h4>Revision</h4>
+      {% for item in site.data.publications.revision %}
+        <p><a href="{{ item.url }}">{{ item.name }}</a></p>
+      {% endfor %}
+      &nbsp;&nbsp;&nbsp;
+
+      <h4>Submission</h4>
+      {% for item in site.data.publications.submission %}
         <p><a href="{{ item.url }}">{{ item.name }}</a></p>
       {% endfor %}
       &nbsp;&nbsp;&nbsp;
