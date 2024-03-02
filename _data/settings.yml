@@ -14,5 +14,5 @@ social:
 - {icon: 'linkedin', link: 'https://www.linkedin.com/in/munq-lee'}
 
 contacts:
-- {name: 'Sihoon Seong', title: 'M.S.', department: 'Intelligent Semiconductor Engineering', major: 'System Software', institution: 'Chung-Ang University', institution_address: '84, Heukseok-ro, Dongjak-gu, Seoul, Republic of Korea', phone: '+82 10-2846-6032', email: 'seongsihoon7@cau.ac.kr', office: '209-309', image: 'assets/img/seongsihoon-img.jpg'}
+- {name: 'Sihoon Seong', title: 'Master's degree in Intelligent Semiconductor Engineering', department: 'Intelligent Semiconductor Engineering', major: 'System Software and Intelligent Semiconductor Engineering', institution: 'Chung-Ang University', institution_address: '84, Heukseok-ro, Dongjak-gu, Seoul, Republic of Korea', phone: '+82 10-2846-6032', email: 'seongsihoon7@cau.ac.kr', office: '209-309', image: 'assets/img/seongsihoon-img.jpg'}
 
