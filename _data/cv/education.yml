@@ -1,9 +1,9 @@
 - title: 'B.S. Electrical and Electronics Engineering'
-  description: 'Chung-Ang University (2013-2018)'
+  description: 'Chung-Ang University (2017.03. - 2021.08.)'
 
-- title: 'M.S. Electrical and Electronics Engineering'
-  thesis: 'Gshare: A Framework to Enable GPU Memory Sharing for Deep Learning Workloads in Containers'
-  description: 'Chung-Ang University (2019-2020)'
+- title: 'M.S. Intelligent Semiconductor Engineering'
+  thesis: 'MIGrein: Reinforcement Learning-Based Multi-Instance GPU Scheduling for DNN Inference Workloads'
+  description: 'Chung-Ang University (2022.03. - 2024.02.)'
 
-- title: 'Ph.D. Department of Intelligent Semiconductor Engineering'
-  description: 'Chung-Ang University (2021-present)'
+# - title: 'Ph.D. Department of Intelligent Semiconductor Engineering'
+#   description: 'Chung-Ang University (2021-present)'

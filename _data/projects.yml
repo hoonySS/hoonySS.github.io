@@ -3,9 +3,11 @@ current:
   institution: 'Supported by National R&D Program through the National Research Foundation of Korea (NRF) funded by Ministry of Science and ICT'
   date: 'Sep. 2023 - Feb. 2025'
 
-- name: 'Intelligent Energy-of-Things (iEoT) System IC Center for da Vinci-type Education'
-  institution: 'Supported by National R&D Program through the National Research Foundation of Korea (NRF) funded by Ministry of Science and ICT'
-  date: 'Apr. 2021 - Feb. 2025'
+- name: '차세대'
+
+# - name: 'Intelligent Energy-of-Things (iEoT) System IC Center for da Vinci-type Education'
+#   institution: 'Supported by National R&D Program through the National Research Foundation of Korea (NRF) funded by Ministry of Science and ICT'
+#   date: 'Apr. 2021 - Feb. 2025'
 
 past:
 - name: 'Heterogeneous Accelerators Resource Sharing Framework for Container-based EdgeCPS Platforms'
@@ -24,9 +26,9 @@ past:
   institution: 'Funded by Electronics and Telecommunications Research Institute (ETRI)'
   date: 'Aug. 2021 - Nov. 2021'
   
-- name: 'Cloud Credentials Acquisition on PC-based Systems'
-  institution: "Funded by Supreme Prosecutor's Office of the Republic of Korea"
-  date: 'Jun. 2020 - Nov. 2020'
+# - name: 'Cloud Credentials Acquisition on PC-based Systems'
+#   institution: "Funded by Supreme Prosecutor's Office of the Republic of Korea"
+#   date: 'Jun. 2020 - Nov. 2020'
 
 
 
