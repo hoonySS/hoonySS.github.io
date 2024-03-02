@@ -1,9 +1,10 @@
-- title: 'B.S. Electrical and Electronics Engineering'
-  description: 'Chung-Ang University (2017.03. - 2021.08.)'
-
 - title: 'M.S. Intelligent Semiconductor Engineering'
   thesis: 'MIGrein: Reinforcement Learning-Based Multi-Instance GPU Scheduling for DNN Inference Workloads'
   description: 'Chung-Ang University (2022.03. - 2024.02.)'
+
+- title: 'B.S. Electrical and Electronics Engineering'
+  description: 'Chung-Ang University (2017.03. - 2021.08.)'
+
 
 # - title: 'Ph.D. Department of Intelligent Semiconductor Engineering'
 #   description: 'Chung-Ang University (2021-present)'
