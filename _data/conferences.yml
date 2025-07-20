@@ -4,9 +4,8 @@ orals:
   date: ''
 
 posters:
-- name: ''
-  url: ''
-  date: ''
+- name: '"Achieving Zero-copy Receive using Commodity SoC-based SmartNICs", 19th USENIX Symposium on Operating Systems Design and Implementation (OSDI 2025)'
+  date: '2025-07-07'
 
 workshops:
 - name: ''

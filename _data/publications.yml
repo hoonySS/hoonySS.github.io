@@ -1,6 +1,6 @@
-featured:
-- name: 'Hyunho Ahn, Munkyu Lee, Sihoon Seong, Minhyeok Lee, Gap-Joo Na, In-Geol Chun, Youngpil Kim, and Cheol-Ho Hong, "BioEdge: Accelerating Object Detection in Bioimages with Edge-Based Distributed Inference", Electronics, November 2023'
-  url: 'https://doi.org/10.3390/electronics12214544'
+# featured:
+# - name: 'Hyunho Ahn, Munkyu Lee, Sihoon Seong, Minhyeok Lee, Gap-Joo Na, In-Geol Chun, Youngpil Kim, and Cheol-Ho Hong, "BioEdge: Accelerating Object Detection in Bioimages with Edge-Based Distributed Inference", Electronics, November 2023'
+#   url: 'https://doi.org/10.3390/electronics12214544'
 
 # first:
 # - name: 'Hyunho Ahn, Munkyu Lee, Sihoon Seong, Minhyeok Lee, Gap-Joo Na, In-Geol Chun, Youngpil Kim, and Cheol-Ho Hong, "BioEdge: Accelerating Object Detection in Bioimages with Edge-Based Distributed Inference", Electronics, November 2023'
@@ -8,16 +8,16 @@ featured:
 # - name: 'Munkyu Lee, Hyunho Ahn, Cheol-Ho Hong, and Dimitrios S. Nikolopoulos, "gShare: A Centralized GPU Memory Management Framework to Enable GPU Memory Sharing for Containers", Future Generation Computer Systems, May 2022 (JCR 2020 IF: 7.187, Top: 6.3%)'
 #   url: 'https://doi.org/10.1016/j.future.2021.12.016'
 
-coop:
-- name: 'Hyunho Ahn, Munkyu Lee, Sihoon Seong, Minhyeok Lee, Gap-Joo Na, In-Geol Chun, Youngpil Kim, and Cheol-Ho Hong, "BioEdge: Accelerating Object Detection in Bioimages with Edge-Based Distributed Inference", Electronics, November 2023'
+journals:
+- name: '"Vortex Feature Positioning: Bridging tabular IIoT data and image-based deep learning", Elsevier Internet of Things, 2025'
+  url: 'https://doi.org/10.1016/j.iot.2025.101533'
+
+- name: '"ScissionLite: Accelerating Distributed Deep Learning With Lightweight Data Compression for IIoT", IEEE Transactions on Industrial Informatics, 2024'
+  url: 'https://doi.org/10.1109/TII.2024.3413340'
+
+- name: '"BioEdge: Accelerating Object Detection in Bioimages with Edge-Based Distributed Inference", Electronics, November 2023'
   url: 'https://doi.org/10.3390/electronics12214544'
 
-revision:
-- name: '"ScissionLite: Accelerating Distributed Deep Learning with Lightweight Data Compression for IIoT", IEEE Transactions on Industrial Informatics, [major revision]'
-
-submission:
-- name: '"Converting Tabular Data into Images with Attribute Correlation for CNNs", IEEE Transactions on Industrial Informatics'
-
 conferences:
-- name: 'Not yet published'
-  url: ''
+- name: '"ParvaGPU: Efficient Spatial GPU Sharing for Large-Scale DNN Inference in Cloud Environments", SC24: International Conference for High Performance Computing, Networking, Storage and Analysis, 2024'
+  url: 'https://doi.org/10.1109/SC41406.2024.00048'
