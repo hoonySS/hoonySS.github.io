@@ -1,41 +1,41 @@
 <div class="row g-5 mb-5">
   <div>
     <h3 class="fw-bold border-bottom pb-3 mb-3">Publications</h3>
-    {% if page.title == "Home" %}
+    <!-- {% if page.title == "Home" %}
       {% for item in site.data.publications.featured %}
         <p><a href="{{ item.url }}">{{ item.name }}</a></p>
       {% endfor %}
-    {% else %}
+    {% else %} -->
       <!-- <h4>First author</h4>
       {% for item in site.data.publications.first %}
         <p><a href="{{ item.url }}">{{ item.name }}</a></p>
       {% endfor %}
       &nbsp;&nbsp;&nbsp; -->
 
-      <h4>Journals</h4>
-      {% for item in site.data.publications.journals %}
-        <p><a href="{{ item.url }}">{{ item.name }}</a></p>
-      {% endfor %}
-      &nbsp;&nbsp;&nbsp;
+    <h4>Journals</h4>
+    {% for item in site.data.publications.journals %}
+      <p><a href="{{ item.url }}">{{ item.name }}</a></p>
+    {% endfor %}
+    &nbsp;&nbsp;&nbsp;
 
-      <!-- <h4>Revision</h4>
-      {% for item in site.data.publications.revision %}
-        <p><a href="{{ item.url }}">{{ item.name }}</a></p>
-      {% endfor %}
-      &nbsp;&nbsp;&nbsp;
+    <!-- <h4>Revision</h4>
+    {% for item in site.data.publications.revision %}
+      <p><a href="{{ item.url }}">{{ item.name }}</a></p>
+    {% endfor %}
+    &nbsp;&nbsp;&nbsp;
 
-      <h4>Submission</h4>
-      {% for item in site.data.publications.submission %}
-        <p><a href="{{ item.url }}">{{ item.name }}</a></p>
-      {% endfor %}
-      &nbsp;&nbsp;&nbsp; -->
+    <h4>Submission</h4>
+    {% for item in site.data.publications.submission %}
+      <p><a href="{{ item.url }}">{{ item.name }}</a></p>
+    {% endfor %}
+    &nbsp;&nbsp;&nbsp; -->
 
-      <h4>International conferences</h4>
-      {% for item in site.data.publications.conferences %}
-        <p><a href="{{ item.url }}">{{ item.name }}</a></p>
-      {% endfor %}
-      &nbsp;&nbsp;&nbsp;
+    <h4>International conferences</h4>
+    {% for item in site.data.publications.conferences %}
+      <p><a href="{{ item.url }}">{{ item.name }}</a></p>
+    {% endfor %}
+    &nbsp;&nbsp;&nbsp;
       
-    {% endif %}
+    <!-- {% endif %} -->
   </div>
 </div>
